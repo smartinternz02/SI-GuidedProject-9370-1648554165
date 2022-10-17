@@ -1,0 +1,21 @@
+{
+        "input_data": [
+                {
+                        "fields": [
+                                "Gender",
+                                "Married",
+                                "Dependents",
+                                "Education",
+                                "Self_Employed",
+                                "ApplicantIncome",
+                                "CoapplicantIncome",
+                                "LoanAmount",
+                                "Loan_Term",
+                                "Credit_History_Available",
+                                "Housing",
+                                "Locality"
+                        ],
+                        "values": []
+                }
+        ]
+}
